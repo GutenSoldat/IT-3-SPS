@@ -8,3 +8,6 @@ pip install mysql-connector
 
 potom az bude nainstalovan pip
 pip freeze > requirements.txt
+
+nainstaluje vsechny knihovny
+pip install -r requirements.txt
