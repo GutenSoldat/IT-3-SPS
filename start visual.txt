@@ -5,3 +5,6 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 .\venv\Scripts\activate
 
 pip install mysql-connector
+
+potom az bude nainstalovan pip
+pip freeze > requirements.txt
